@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.headStyle {
+  margin: 5px;
+  padding: 5px;
+  border-collapse: separate;
+}
